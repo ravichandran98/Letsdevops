@@ -14,7 +14,7 @@ on:
       workflow2_github_account:
         description: 'GitHub Account Owner'
         required: true
-        default: 'sumitraj0103'
+        default: 'ravichandran98'
       
       workflow2_repo_github:
         description: 'GitHub Repository Name'
